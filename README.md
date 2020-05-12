@@ -1,4 +1,4 @@
-# Belly Button Biodiversity
+# Belly Button Biodiversity 
 
 A dashboard of belly button micro-organisms, developed using Python, Flask, Plotly, HTML, JavaScript, SQLAlchemy 
 
